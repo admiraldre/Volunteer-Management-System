@@ -561,9 +561,9 @@ _N/A_
 
 
 * **Very fast:**Efficiency, the system shall submit requests (ie. changes pages, logging in, applying for volunteer, etc.) in less than 10 seconds.
-* **Easy to learn:** Usability/Learnability, the system shall have a detailed walkthrough when you launch it for the first time
+* **Easy to learn:**Usability/Learnability, the system shall have a detailed walkthrough when you launch it for the first time
 * **Easy to use:**Usability, the system shall have a simple GUI with small amount of options and screens
-* **No data exposure: **Functionality/Usability, the system shall maintain data within the database
+* **No data exposure:**Functionality/Usability, the system shall maintain data within the database
 
 
 
