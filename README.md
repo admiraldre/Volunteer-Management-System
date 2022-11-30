@@ -101,7 +101,7 @@ Conversion notes:
 
 
     1. 
-**Purpose **
+**Purpose**
 The purpose of this SRS is to describe the software requirements specifications for the first version of the Volunteer Management System. This system provides administrators and managers an environment where they can manage new volunteers and volunteer requests in a single organized system. This version contains the basic functionalities for users. This document describes the purpose, requirements, and functionalities of the system. 
 
 
@@ -560,9 +560,9 @@ _N/A_
 **Software Quality Attributes**
 
 
-* **Very fast: **Efficiency, the system shall submit requests (ie. changes pages, logging in, applying for volunteer, etc.) in less than 10 seconds.
+* **Very fast:**Efficiency, the system shall submit requests (ie. changes pages, logging in, applying for volunteer, etc.) in less than 10 seconds.
 * **Easy to learn:** Usability/Learnability, the system shall have a detailed walkthrough when you launch it for the first time
-* **Easy to use: **Usability, the system shall have a simple GUI with small amount of options and screens
+* **Easy to use:**Usability, the system shall have a simple GUI with small amount of options and screens
 * **No data exposure: **Functionality/Usability, the system shall maintain data within the database
 
 
