@@ -244,8 +244,6 @@ DE-3: Incentives that can motivate more people to work voluntarily.
 **User Interfaces**
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 ![alt_text](https://cdn.discordapp.com/attachments/1027606075056328704/1047703957943881738/image.png)
 
@@ -264,17 +262,10 @@ an ODBC connection secured using level 4 encryption standard.
 **Software Interfaces**
 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![alt_text](https://cdn.discordapp.com/attachments/1027606075056328704/1047704039695073360/image.png)
 
 
 - The system shall retrieve information about the senior from the SPCC database. It also confirmed validated volunteers from Background Check Systems.
-
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](https://cdn.discordapp.com/attachments/1027606075056328704/1047704076491698197/image.png)
